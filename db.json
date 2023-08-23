@@ -1,0 +1,164 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Olivia Johnson",
+      "email": "olivia@company.com",
+      "phone": "123456789"
+    },
+    {
+      "id": 2,
+      "name": "Liam Smith",
+      "email": "liam@company.com",
+      "phone": "987654321",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Ava Davis",
+      "email": "ava@company.com",
+      "phone": "555555555",
+      "active": false
+    },
+    {
+      "id": 4,
+      "name": "Noah Williams",
+      "email": "noah@company.com",
+      "phone": "1234567890",
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "Sophia Brown",
+      "email": "sophia@company.com",
+      "phone": "9876543210",
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "Ethan Johnson",
+      "email": "ethan@company.com",
+      "phone": "5555555555",
+      "active": false
+    },
+    {
+      "id": 7,
+      "name": "Mia Miller",
+      "email": "mia@company.com",
+      "phone": "123456789",
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "James Wilson",
+      "email": "james@company.com",
+      "phone": "987654321",
+      "active": true
+    },
+    {
+      "id": 9,
+      "name": "Charlotte Lee",
+      "email": "charlotte@company.com",
+      "phone": "555555555",
+      "active": false
+    },
+    {
+      "id": 10,
+      "name": "Alexander Smith",
+      "email": "alexander@company.com",
+      "phone": "1234567890",
+      "active": true
+    },
+    {
+      "name": "asd",
+      "email": "asd",
+      "phone": "asd",
+      "active": true,
+      "id": 11
+    },
+    {
+      "name": "ram ",
+      "email": "123@gmail.com",
+      "phone": "123456789",
+      "active": true,
+      "id": 12
+    },
+    {
+      "name": "ram ",
+      "email": "123@gmail.com",
+      "phone": "123456789",
+      "active": true,
+      "id": 13
+    },
+    {
+      "name": "awd",
+      "email": "asd",
+      "phone": "asdasd",
+      "active": true,
+      "id": 14
+    },
+    {
+      "name": "dasd",
+      "email": "asd",
+      "phone": "ads",
+      "active": true,
+      "id": 15
+    },
+    {
+      "name": "Bhupendra yadav",
+      "email": "Bhupendrayadav911@gmail.com",
+      "phone": "08827412415",
+      "active": true,
+      "id": 16
+    },
+    {
+      "name": "Bhupendra yadav",
+      "email": "Bhupendrayadav911@gmail.com",
+      "phone": "08827412415",
+      "active": true,
+      "id": 17
+    },
+    {
+      "name": "Reprehenderit exerc",
+      "email": "Ea culpa voluptate c",
+      "phone": "Quis laboriosam adi",
+      "active": true,
+      "id": 18
+    },
+    {
+      "name": "Bhupendra yadav",
+      "email": "Bhupendrayadav911@gmail.com",
+      "phone": "08827412415",
+      "active": true,
+      "id": 19
+    },
+    {
+      "name": "Nisi totam sint in ",
+      "email": "Ipsum ad necessitat",
+      "phone": "Laborum pariatur Qu",
+      "active": true,
+      "id": 20
+    },
+    {
+      "name": "Iste labore excepteu",
+      "email": "Ullamco amet sunt n",
+      "phone": "Sed consequatur Err",
+      "active": true,
+      "id": 21
+    },
+    {
+      "name": "Dane Cline",
+      "email": "finizepo@mailinator.com",
+      "phone": "+1 (528) 511-9624",
+      "active": true,
+      "id": 22
+    },
+    {
+      "name": "Bhupendra yadav",
+      "email": "Bhupendrayadav911@gmail.com",
+      "phone": "08827412415",
+      "active": true,
+      "id": 23
+    }
+  ]
+}
